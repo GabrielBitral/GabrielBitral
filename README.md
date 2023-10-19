@@ -2,7 +2,7 @@
 
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
 - 🌱 Estudando Node.js
-- 👯 Contate-me no e-mail: contatobitral@gmail.com
+- ✉ Contate-me no e-mail: contatobitral@gmail.com
 - 😄 Pronomes: Ele/dele
 
 <div style="display: inline_block">
