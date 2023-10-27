@@ -1,7 +1,7 @@
 ### Eai! Eu sou o Gabriel Fabiano!
 
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
-- 🌱 Estudando Node.js
+- 🌱 Estudando Desenvolvimento de Jogos
 - ✉ Contate-me no e-mail: contatobitral@gmail.com
 - 😄 Pronomes: Ele/dele
 
