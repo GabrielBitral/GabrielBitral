@@ -1,18 +1,12 @@
 ### Eai! Eu sou o Gabriel Fabiano!
 
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
-- 🌱 Estudando Desenvolvimento de Jogos
+- 🌱 Estudando Desenvolvimento de Jogos.
 - ✉ Contate-me no e-mail: contatobitral@gmail.com
-- 😄 Pronomes: Ele/dele
-
-<div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbitral&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbitral&langs_count=16&layout=compact&theme=tokyonight&hide=hack">
-</div>
 
 ##
 
-### Hard Skills
+### 📌 Hard Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,vue,laravel,js,ts,mysql,docker,postgres" />
@@ -21,12 +15,20 @@
 
 ##
 
-### Ferramentas
+### 🛠 Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman" />
   </a>
 </p>
+
+##
+
+### 📊 Estatísticas
+<div style="display: inline_block">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbitral&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbitral&langs_count=16&layout=compact&theme=tokyonight&hide=hack">
+</div>
 
 ##
 
