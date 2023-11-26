@@ -9,7 +9,7 @@
 ### 📌 Hard Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,vue,laravel,js,ts,mysql,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,vue,laravel,js,ts,mysql,postgres,docker" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 🛠 Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,azure" />
   </a>
 </p>
 
