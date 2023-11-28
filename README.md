@@ -1,5 +1,6 @@
 ### Eai! Eu sou o Gabriel Fabiano!
 
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
 - 🌱 Estudando Desenvolvimento de Jogos.
 - ✉ Contate-me no e-mail: contatobitral@gmail.com
