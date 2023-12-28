@@ -2,7 +2,7 @@
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
-- 🌱 Estudando Desenvolvimento de Jogos.
+- 🌱 Estudando Angular.js.
 - ✉ Contate-me no e-mail: contatobitral@gmail.com
 
 ##
