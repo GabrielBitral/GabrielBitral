@@ -1,8 +1,9 @@
 ### Eai! Eu sou o Gabriel Fabiano!
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- 💰 Estudando Ciências Contábeis.
 - 🔭 Estou à procura de uma oportunidade para mostrar o que eu sei!
-- 🌱 Estudando Angular.js.
+- 🌱 Estudando React.
 - ✉ Contate-me no e-mail: contatobitral@gmail.com
 
 ##
